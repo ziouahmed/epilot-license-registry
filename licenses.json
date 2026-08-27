@@ -1,0 +1,8 @@
+{
+  "$schema": "./schemas/licenses.schema.json",
+  "schema": "epilot-remote-registry/v1",
+  "updatedAt": "2026-08-27T00:00:00Z",
+  "gracePeriodHours": 72,
+  "licenses": []
+}
+
