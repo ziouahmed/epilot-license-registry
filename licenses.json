@@ -1,38 +1,7 @@
 {
   "$schema": "./schemas/licenses.schema.json",
   "schema": "epilot-remote-registry/v1",
-  "updatedAt": "2026-08-28T20:08:50.3066227\u002B00:00",
+  "updatedAt": "2026-08-28T20:10:56.2407621\u002B00:00",
   "gracePeriodHours": 72,
-  "licenses": [
-    {
-      "licenseId": "LIC-2026-YTGPZZA_",
-      "licenseHash": "C1B825D66CD720D747D3288FA98E9D7C0BFE926D1539C2C4829C70A78F80CCC4",
-      "status": "suspended",
-      "expiresOn": "2027-08-28",
-      "maxDevices": 1,
-      "deviceHashes": [
-        "895E54065263AC6B25758698D52019792AB5C18F308B99A2E1DE1F26F1EF1BF0"
-      ],
-      "reason": "",
-      "revokedAt": null,
-      "updatedAt": "2026-08-28T20:08:50.2519309\u002B00:00",
-      "kind": "limited",
-      "allowedModules": [
-        "PILOTAGE",
-        "STRUCTURE",
-        "STAGIAIRES",
-        "MODULES",
-        "ASSIDUITE",
-        "NOTES",
-        "CENTRE_EPILOT"
-      ],
-      "allowedSettings": [
-        "PROFILE",
-        "STRUCTURE",
-        "ACADEMIC_YEAR",
-        "BACKUP",
-        "LICENSE_INFO"
-      ]
-    }
-  ]
+  "licenses": []
 }
