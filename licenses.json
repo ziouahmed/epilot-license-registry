@@ -1,7 +1,69 @@
 {
   "$schema": "./schemas/licenses.schema.json",
   "schema": "epilot-remote-registry/v1",
-  "updatedAt": "2026-08-31T23:21:28.9769774\u002B00:00",
+  "updatedAt": "2026-08-31T23:21:41.5534433\u002B00:00",
   "gracePeriodHours": 72,
-  "licenses": []
+  "licenses": [
+    {
+      "licenseId": "LIC-2026-P_MR1BDB",
+      "licenseHash": "E96977E224FF82E37A1AF0174E8CDCA2158A13E9426C4BF6551D7434B101AF38",
+      "status": "active",
+      "expiresOn": "2027-09-01",
+      "maxDevices": 1,
+      "deviceHashes": [
+        "0409206A2B02624C50F06ADECEEB41279E8C42D3015C41E28D9E71060FDE9668"
+      ],
+      "reason": "",
+      "revokedAt": null,
+      "updatedAt": "2026-08-31T23:21:37.2134906\u002B00:00",
+      "kind": "limited",
+      "allowedModules": [
+        "PILOTAGE",
+        "STRUCTURE",
+        "STAGIAIRES",
+        "MODULES",
+        "PREPARATION",
+        "ASSIDUITE",
+        "EVALUATIONS",
+        "GRILLES",
+        "NOTES",
+        "STAGES",
+        "DOCUMENTS",
+        "COMMUNICATION",
+        "ALERTES",
+        "AGENDA",
+        "EMPLOI_TEMPS",
+        "PLANNING_EFM",
+        "HORLOGE",
+        "TIRAGE",
+        "ASSISTANT",
+        "IA",
+        "CALCULATRICE",
+        "PDF",
+        "PHOTOS",
+        "VIDEOS",
+        "FICHIERS",
+        "CORBEILLES",
+        "SAUVEGARDE",
+        "RECHERCHE",
+        "STATISTIQUES",
+        "INVENTAIRE",
+        "SECURITE",
+        "ARCHIVAGE",
+        "CENTRE_EPILOT"
+      ],
+      "allowedSettings": [
+        "PROFILE",
+        "STRUCTURE",
+        "ACADEMIC_YEAR",
+        "BACKUP",
+        "UPDATES",
+        "MOBILE",
+        "AI",
+        "SECURITY",
+        "ADVANCED",
+        "LICENSE_INFO"
+      ]
+    }
+  ]
 }
