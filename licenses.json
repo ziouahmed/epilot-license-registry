@@ -1,13 +1,13 @@
 {
   "$schema": "./schemas/licenses.schema.json",
   "schema": "epilot-remote-registry/v1",
-  "updatedAt": "2026-08-31T22:22:35.9470000\u002B00:00",
+  "updatedAt": "2026-08-31T22:23:44.0960000\u002B00:00",
   "gracePeriodHours": 72,
   "licenses": [
     {
       "licenseId": "LIC-2026-R4M90KE8",
       "licenseHash": "CC34241EA94613BE41D63709A24A2F7CDFBA9A24749CFC8AD2CD6A434A1B705B",
-      "status": "active",
+      "status": "suspended",
       "expiresOn": "2027-08-31",
       "maxDevices": 1,
       "deviceHashes": [
@@ -15,7 +15,7 @@
       ],
       "reason": "",
       "revokedAt": null,
-      "updatedAt": "2026-08-31T22:20:32.8010000\u002B00:00",
+      "updatedAt": "2026-08-31T22:23:44.0550000\u002B00:00",
       "kind": "limited",
       "allowedModules": [
         "PILOTAGE",
