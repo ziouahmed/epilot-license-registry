@@ -1,7 +1,7 @@
 {
   "$schema": "./schemas/licenses.schema.json",
   "schema": "epilot-remote-registry/v1",
-  "updatedAt": "2026-09-09T09:31:18.2620000\u002B00:00",
+  "updatedAt": "2026-09-09T09:34:26.3810000\u002B00:00",
   "gracePeriodHours": 72,
   "licenses": [
     {
@@ -388,7 +388,7 @@
       ],
       "reason": "",
       "revokedAt": null,
-      "updatedAt": "2026-09-09T09:31:18.2240000\u002B00:00",
+      "updatedAt": "2026-09-09T09:34:26.3310000\u002B00:00",
       "kind": "permanent",
       "allowedModules": [
         "PILOTAGE",
